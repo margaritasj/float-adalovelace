@@ -1,0 +1,1 @@
+alert('Bienvenidos, esta es la biografía de Ada Lovelace que trabajaremos con la propiedad Float');

@@ -1,0 +1,23 @@
+h1{
+    outline: 1px solid hotpink;
+    text-align: center;
+}
+img {
+    outline: 1px solid deeppink; /*ayuda visual de marcado*/
+    max-width: 100%;
+}
+.caja {
+     /*outline: 1px solid red;   aplicar para ver como esta dibujando mis elementos el html*/ 
+    width: 500px;
+    padding: 10px;
+    border:  1px solid #999;
+    margin: 8px;
+    box-sizing: border-box;
+    float:left;
+}
+p {
+    outline: 1px solid deeppink;
+    text-align: justify;
+}
+
+
